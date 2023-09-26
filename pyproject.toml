@@ -2,7 +2,7 @@
 name = "hexlet-pytest"
 version = "0.1.0"
 description = ""
-authors = ["Marat Mukhutdinov <kazanmarat2009@yandex.ru>"]
+authors = [""]
 readme = "README.md"
 packages = [{include = "hexlet_pytest"}]
 
